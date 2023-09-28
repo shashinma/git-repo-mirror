@@ -16,7 +16,7 @@ on:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    name: Git Repo Sync
+    name: Git Repo Mirroring
     steps:
     - uses: actions/checkout@v4
       with:
