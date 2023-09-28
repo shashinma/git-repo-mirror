@@ -1,8 +1,8 @@
-# Git Repo Sync
+# Git Repository Mirroring
 
 Git Repo Mirroring enables you to synchronize code to other code management platforms, such as GitLab, Gitee, etc.
 
-## Try Git Repo Mirroring
+## Try Git Repository Mirroring
 
 You can use the following example as a template to create a new file with any name under `.github/workflows/`.
 
